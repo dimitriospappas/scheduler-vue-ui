@@ -91,6 +91,9 @@ Implementation of scheduling project frontend requirements has been completed as
 - Thoroughly test as both user and developer UI behaviour with Nuxt.js compatible testing frameworks.
 
 [^1]: API - Call exists, not yet implemented in UI.
+
 [^2]: UI - Works manually (`/employees/search?by=name&q=John`), but UI form currently fails to forward update parameters.
+
 [^3]: API - Call not yet implemented, would be a non-default POST request.
+
 [^4]: UI - XLSX library installed, creation by table/JSON data, features calls to browser to trigger local file download.
